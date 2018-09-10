@@ -2,10 +2,7 @@
     CONSOLE APPLICATION : LRU Project Overview
 ========================================================================
 
-AppWizard has created this LRU application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your LRU application.
+Implementing an LRU mechanism using a map and a Queue
 
 
 LRU.vcxproj
